@@ -1,4 +1,4 @@
-const CACHE_Version = '21-07-07'
+const CACHE_Version = '21-07-07-1'
 const Static_CACHE = 'static-' + CACHE_Version
 const Static_CACHEAssets = [
     '/',
