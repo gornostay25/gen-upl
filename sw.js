@@ -1,11 +1,12 @@
-const CACHE_Version = '21-07-07-2'
+const CACHE_Version = '21-07-07-3'
 const Static_CACHE = 'static-' + CACHE_Version
 const Static_CACHEAssets = [
     '/',
     '/build/bundle.js',
     '/build/bundle.css',
     '/fonts/PTSerif-Regular.b64',
-    '/favicon.ico'
+    '/favicon.ico',
+    '/img/uplatnica.png'
 ];
 const DCACHE = 'cache-auto';
 
